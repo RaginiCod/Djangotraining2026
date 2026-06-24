@@ -1,0 +1,1 @@
+# Djangotraining2026
